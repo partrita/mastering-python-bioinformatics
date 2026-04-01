@@ -2,7 +2,7 @@
 
 Mastering Bioinformatics에 오신 것을 환영합니다!
 
-생명정보학(Bioinformatics)의 기본적인 개념부터 파이썬(Python)을 활용한 전문적인 데이터 분석 기법까지 폭넓은 주제를 다루고 있습니다. 생물학적 데이터를 다루고자 하는 모든 연구자와 프로그래머를 위해 작성되었습니다.
+본 도서는 생명정보학(Bioinformatics)의 기초 개념부터 파이썬(Python)을 활용한 전문적인 데이터 분석 기법까지 폭넓은 주제를 다루고 있습니다. 생물학적 데이터를 다루고자 하는 모든 연구자와 프로그래머를 위해 작성되었습니다.
 
 ## 생명정보학(Bioinformatics)이란?
 
@@ -12,9 +12,9 @@ Mastering Bioinformatics에 오신 것을 환영합니다!
 
 본 책은 생명정보학을 익히고 이를 파이썬으로 구현할 수 있도록 다음과 같은 주제를 포함하고 있습니다:
 
-* Bioinformatics in Cancer and Cancer Therapy: 암 연구와 치료에 적용되는 생명정보학 사례 관찰
-* Managing Your Biological Data with Python: 파이썬을 활용한 효율적인 생물학적 데이터 관리 및 전처리
-* Mastering Python for Bioinformatics: 실전 생명정보학 데이터 분석을 위한 파이썬 마스터하기
-* Python for Biologists (A Complete Programming Course): 프로그래밍에 익숙하지 않은 생물학자를 위한 종합 파이썬 학습 코스
+* **Bioinformatics in Cancer and Cancer Therapy**: 암 연구와 치료에 적용되는 생명정보학 사례 관찰
+* **Managing Your Biological Data with Python**: 파이썬을 활용한 효율적인 생물학적 데이터 관리 및 전처리
+* **Mastering Python for Bioinformatics**: 실전 생명정보학 데이터 분석을 위한 파이썬 마스터하기
+* **Python for Biologists (A Complete Programming Course)**: 프로그래밍에 익숙하지 않은 생물학자를 위한 종합 파이썬 학습 코스
 
 지금 바로 다음 장으로 넘어가 본격적인 생명정보학의 세계로 빠져보세요!
