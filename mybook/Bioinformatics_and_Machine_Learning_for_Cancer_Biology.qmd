@@ -1,4 +1,7 @@
-# 암 생물학을 위한 생명정보학 및 머신러닝 (Bioinformatics and Machine Learning for Cancer Biology)
+---
+title: "암 생물학을 위한 생명정보학 및 머신러닝"
+author: ""
+---
 
 ## 머신러닝 기반 대장암 후보 진단 유전자 식별
 

@@ -1,6 +1,7 @@
-# R과 바이오컨덕터(Bioconductor)를 이용한 생명정보학 및 계산 생물학 솔루션
-
-Robert Gentleman, Wolfgang Huber
+---
+title: "R과 바이오컨덕터(Bioconductor)를 이용한 생명정보학 및 계산 생물학"
+author: "Robert Gentleman, Wolfgang Huber et al."
+---
 
 ## 제1부 유전체 실험 데이터의 전처리 (Preprocessing data from genomic experiments)
 

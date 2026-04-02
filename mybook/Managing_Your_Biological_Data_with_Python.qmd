@@ -1,6 +1,7 @@
-# 파이썬으로 생물학 데이터 관리하기 (Managing Your Biological Data with Python)
-
-N. F. Britton
+---
+title: "파이썬으로 생물학 데이터 관리하기"
+author: "N. F. Britton"
+---
 
 ## 서문 (Preface)
 
