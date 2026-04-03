@@ -12,9 +12,9 @@ book:
     - Python_for_Biologists_A_Complete_Programming_Course.qmd
     - Managing_Your_Biological_Data_with_Python.qmd
     - PythonMastery.qmd
-    - Bioinformatics_in_Cancer_Therapy.md
-    - Bioinformatics_R_Bioconductor_Solutions.md
-    - Bioinformatics_and_Machine_Learning.md
+    - Bioinformatics_in_Cancer_and_Cancer_Therapy.md
+    - Bioinformatics_and_Computational_Biology_Solutions_Using_R_and_Bioconductor.md
+    - Bioinformatics_and_Machine_Learning_for_Cancer_Biology.md
     - Bioinformatics_and_Drug_Discovery.md
 
 bibliography: references.bib
